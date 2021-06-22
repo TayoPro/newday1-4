@@ -1,0 +1,28 @@
+.mike{
+    background-image: url(./images/project_img2.jpg);
+}
+
+table{
+    border: 2px solid hotpink;
+    width: 600px;
+    border-collapse: collapse;
+}
+
+th {
+    border: 2px solid skyblue;
+    padding: 20px;
+    color: tomato;
+    text-align: left;
+    background: #fff;
+}
+td {
+    border: 1px solid teal;
+    padding: 20px;
+    color: seagreen;
+}
+tr:nth-child(odd){
+    background: powderblue;
+}
+tr:nth-child(even){
+    background: violet;
+}

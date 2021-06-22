@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Seat work2</title>
+</head>
+<body>
+
+    <!-- Tags for creating table in html  -->
+    <table></table>
+    <caption></caption>
+    <thead></thead>
+    <tr></tr>
+    <th></th>
+    <td></td>
+    <tbody></tbody>
+    <tfoot></tfoot>
+
+    <!-- lets create a table  -->
+    <table>
+        <caption>Bravefield Mastering Table creation in HTML</caption>
+        <thead>
+            <tr>
+                <th>Food Item</th>
+                <th>Food color</th>
+                <th>Quantity</th>
+                <th>Prep Method</th>
+            </tr>
+        </thead>
+        <tbody>
+            <tr>
+                <td>Chinchin</td>
+                <td>Yellow</td>
+                <td>Small</td>
+                <td>frying</td>
+            </tr>
+        </tbody>
+    </table>
+
+</body>
+</html>
